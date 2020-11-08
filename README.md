@@ -1,2 +1,2 @@
-# ruby-app-from-scratch
+# Ruby App From Scratch 
 Building a Ruby app without Rails.
